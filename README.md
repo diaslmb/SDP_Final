@@ -1,5 +1,8 @@
 # Barber Shop Management System
 
+Group: SE-2222
+Name: Dias Ilyas
+
 ## Introduction
 
 The Barber Shop Management System is a Java-based application designed to streamline and manage the booking process in a barbershop. It offers a comprehensive solution for customers to book appointments with various barbers, select different haircut services, and effectively manage their reservations.
